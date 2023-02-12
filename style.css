@@ -1,0 +1,13 @@
+body {
+    background: #22bd6f
+}
+
+input {
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+}
+
+p {
+    font-size: 50px;
+}
